@@ -1,0 +1,8 @@
+Align all similar elements together in an array [a, 2, B, b, C, F, 1]
+
+For example a possible result for above given array should be [a, b, B, C, F, 2, 1]
+
+Solution: The run of this solution program is similar to Selection Sort. 
+Complexity of Selection sort is O(n^2). Hence this might not be very efficient solution for a very high value of n.
+
+Also this solution assumes that we only have 3 types of elements upper case, lower case letters and digits only.
